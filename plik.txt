@@ -1,3 +1,6 @@
 local 
 czwartek 
-i kolejna zmianadev2 czwarta linia 
+<<<<<<< HEAD
+i kolejna zmiana
+dev2 czwarta linia 
+
