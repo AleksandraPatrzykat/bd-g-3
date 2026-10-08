@@ -1,6 +1,5 @@
 local 
 czwartek 
-<<<<<<< HEAD
 i kolejna zmiana
 dev2 czwarta linia 
 
